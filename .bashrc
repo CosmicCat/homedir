@@ -12,6 +12,9 @@ alias ack=ack-grep
 
 export JAVA_HOME=/usr/lib/jvm/java-6-sun
 
+# make cpan work
+export FTP_PASSIVE=1
+
 # done with added stuff
 
 # If not running interactively, don't do anything
