@@ -14,6 +14,7 @@
 (menu-bar-mode nil)
 (tool-bar-mode nil)
 (scroll-bar-mode nil)
+(setq default-tab-width 2)
 
 (set-background-color "#2D2D02")
 (set-foreground-color "#E0E0BF")
